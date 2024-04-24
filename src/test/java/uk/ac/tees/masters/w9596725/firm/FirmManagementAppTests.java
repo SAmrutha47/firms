@@ -1,4 +1,4 @@
-package uk.ac.tees.masters.w9575252.management;
+package uk.ac.tees.masters.w9596725.firm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

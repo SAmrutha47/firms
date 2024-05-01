@@ -19,13 +19,7 @@ node {
       dependencyCheckPublisher pattern: '**/dependency-check-report.xml'
   }
 
-  stage('Build Docker Image') {
-    sh 'docker build -t firm -f Dockerfile1.txt .'
-  }
-
-  stage(' Docker container') {
-   
-  }
+ 
 
   stage('Scan security vulnerabilities') {
 

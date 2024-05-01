@@ -15,7 +15,7 @@
 	<name>firm-management-app</name>
 	<description>An Firm Management App - Amrutha Tees</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

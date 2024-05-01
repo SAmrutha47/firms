@@ -1,2 +1,0 @@
-# FirmManagementSystem
-Firms management
